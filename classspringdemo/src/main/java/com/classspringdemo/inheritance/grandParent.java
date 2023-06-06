@@ -1,5 +1,6 @@
 package com.classspringdemo.inheritance;
 
+//grand parent class
 class grandParent {
 	
 	int c;
