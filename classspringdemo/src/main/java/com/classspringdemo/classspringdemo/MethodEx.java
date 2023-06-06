@@ -6,7 +6,7 @@ public class MethodEx {
 
 	public static void main(String[] args) {
 		
-		String input = "7 tea 12 coffee";
+		String input = "8 tea 120 coffee";
 		Scanner scan = new Scanner(input).useDelimiter("\\s");
 		System.out.println(scan.nextInt());
 		
